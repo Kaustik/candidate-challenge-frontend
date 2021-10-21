@@ -1,19 +1,19 @@
 # Candidate Challenge - Frontend Developer
-![Kaustik logo](https://seeklogo.com/images/K/Kaustik-logo-D9A629CE32-seeklogo.com.gif)
+![Allevi logo](https://allevi.se/wp-content/uploads/2021/02/H-logo-primary-light.svg)
 
-This repository aims to describe the candidate challenge for Kaustik's frontend applicants.
+This repository aims to describe the candidate challenge for Allevi's frontend applicants.
 
 
 
 ## Background
-Kaustik's APP team is responsible for developing and maintaining the company's products visual and behavioural aspects. This includes Kaustik's frontend code and assets, even some rendering related backend tasks.
+Allevi's APP team is responsible for developing and maintaining the company's products visual and behavioral aspects. This includes Allevi's frontend code and assets, even some rendering related backend tasks.
 
 We assume a good handling of HTML, CSS, JavaScript and some fundamental knowledge on modern JavaScript frameworks, React above all.
 
 
 ### Technical stack 
 
-Kaustik's frontend stack is built upon the following technologies:
+Allevi's frontend stack is built upon the following technologies:
 
 * React
 * TypeScript
@@ -26,11 +26,11 @@ Use of the above tools is encouraged but not required.
 
 
 ## The Challenge 
-As Kaustik's products are centered around the scheduling and planning of human resources, we think it is paramount to be comfortable with logical implementations for date and time. Therefore, this is the core task of the challenge.
+As Allevi's products are centered around the scheduling and planning of human resources, we think it is paramount to be comfortable with logical implementations for date and time. Therefore, this is the core task of the challenge.
 
 
 ### Instructions
-Clone this repository to your local machine. You will be provided with an API endpoint from Kaustik that includes data with some events that you will use for this challenge.
+Clone this repository to your local machine. You will be provided with an API endpoint from Allevi that includes data with some events that you will use for this challenge.
 
 Your task is to create entities based on each event and present them on the page. If an event passes over midnight (00:00), the event should be split into two entities. 
 
